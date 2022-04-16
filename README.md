@@ -5,9 +5,7 @@
 
 - 👨‍💻 All of my finished projects are available at [my GitHub repos.](my GitHub repos.)
 
-- 📫 How to reach me **Add fikinoob#9003 (on discord)**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📫 Message me via discord: **Add fikinoob#9003 (on discord)**</h3>
 <p align="left">
 </p>
 
