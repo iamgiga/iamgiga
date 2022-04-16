@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm fikinoob</h1>
 <h3 align="center">A Batch/Python/C developer. Bassiclly a person that makes viruses and useful tools. Hopefully you find my projects interseting!</h3>
 
-- 🔭 I’m currently working on [SysUnlock]
+- 🔭 I’m currently working on SysUnlock
 
-- 👨‍💻 All of my finished projects are available at [my GitHub repos.](my GitHub repos.)
+- 👨‍💻 All of my finished projects are available at [my GitHub repos.]
 
 <h3 align="left">📫 Message me via discord: **Add fikinoob#9003 (on discord)**</h3>
 <p align="left">
