@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm fikinoob, a **white hat** developer</h1>
+<h1 align="center">Hi 👋, I'm fikinoob, a *white hat* developer</h1>
 <h3 align="center">A Batch/Python/C++/C#/VBS developer. Bassiclly a person that makes viruses and useful tools. Hopefully you find my projects interseting!</h3>
 
 - 🔭 I’m currently working on ? (private information)
