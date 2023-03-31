@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm fikinoob, a *white hat* developer</h1>
-<h3 align="center">A Batch/Python/C++/C#/VBS developer. Bassiclly a person that makes viruses and useful tools. Hopefully you find my projects interseting!</h3>
+<h1 align="center">Hi 👋, I'm fikinoob</h1>
+<h3 align="center">A Batch/Python/Rust developer. Hopefully you find my projects interseting!</h3>
 
 - 🔭 I’m currently working on ? (private information)
 
 - 👨‍💻 All of my finished projects are available at my GitHub repos.
-
-<h3 align="left">📫 Message me via discord: **Add fikinoob#9003 (on discord)**</h3>
 <p align="left">
 </p>
 
