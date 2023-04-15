@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm fikinoob</h1>
+<h1 align="center">Hi 👋, I'm g</h1>
 <h3 align="center">A Batch/Python/Rust developer. Hopefully you find my projects interseting!</h3>
 
 - 🔭 I’m currently working on ? (private information)
